@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: black;
+    text-align: center;;
+}
+
+label {
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 3.0;
+}
+
+input {
+    height: 25px;
+    width: 180px;
+    border: 2px solid black;
+    border-radius: 2px;
+}
+
+input[type=reset], button {
+    height: 30px;
+    width: 120px;
+    border: 1px solid black;
+    border-radius: 2px;
+    color: black;
+    font-weight: bold;
+}
+
